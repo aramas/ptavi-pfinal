@@ -1,0 +1,8 @@
+<config>
+    <account username = "holawola@ekiga.net" passwd = "" />
+    <uaserver ip = "127.0.0.1" puerto = "9876" />
+    <rtpaudio puerto = "9087" />
+    <regproxy ip = "127.0.0.1" puerto = "1234"/>
+    <log path = "log_fich_2" />
+    <audio path = "./cancion.mp3" />
+</config>
