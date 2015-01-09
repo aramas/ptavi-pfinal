@@ -1,0 +1,5 @@
+<config>
+    <server name = "" ip = "127.0.0.1" puerto = "1234" />
+    <database path = "registered" passwdpath = "" />
+    <log path = "log_proxy" />
+</config>
